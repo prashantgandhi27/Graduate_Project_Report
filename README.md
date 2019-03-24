@@ -2,6 +2,7 @@
   
 **Degree**         : Master of Science  
 **college**        : San Jose State University (SJSU), California, USA  
+**Major**          : Computer Engineering  
 **Specialization** : Embedded Software Designing  
   
 ### Report link of WIKIPAGE for project report  
